@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
-import Github from "../About/Github";
+
 import {
   AiFillGithub,
   AiFillInstagram,
