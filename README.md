@@ -1,5 +1,5 @@
 <div align="center"><a href="https://vanshgoswamiportfolio.netlify.app/">
-<img src="./Images/portfolioimg.png" alt="my Portfolio website" width="600"/></a>
+<img src="./Images/portfolioimg.png" alt="my Portfolio website" /></a>
 </div>
   <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
